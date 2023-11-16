@@ -1,6 +1,6 @@
 {
   "name": "money-tracker",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@sentry/browser": "^4.4.1",
