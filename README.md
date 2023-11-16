@@ -1,3 +1,3 @@
-cd money-tracker
-npm install
-npm start
+cd money-tracker  
+npm install  
+npm start  
